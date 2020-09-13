@@ -1,0 +1,1 @@
+https://zappycode.com/posts/1/django-cheat-sheet
